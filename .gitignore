@@ -1,0 +1,28 @@
+# Visual Studio files
+.vscode/
+.vs/
+
+
+# Compiled files
+/bin/
+/obj/
+
+# NuGet packages
+/packages/
+
+# Node.js
+/node_modules/
+
+# Logs
+/logs/
+/log/
+
+# Build artifacts
+/binaries/
+/artifacts/
+
+# .NET Scaffolding
+Project/wwwroot/
+Project/bin/
+Project/obj/
+
