@@ -22,7 +22,7 @@
 /artifacts/
 
 # .NET Scaffolding
-Project/wwwroot/
-Project/bin/
-Project/obj/
+JokesWebApp/wwwroot/
+JokesWebApp/bin/
+JokesWebApp/obj/
 
